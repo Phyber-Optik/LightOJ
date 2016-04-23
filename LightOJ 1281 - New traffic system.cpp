@@ -2,6 +2,8 @@
 	Read about the solution in:
 	https://prisonbreakingbad.wordpress.com/2016/04/23/lightoj-1281-new-traffic-system/
 */
+
+
 #include<bits/stdc++.h>
 
 typedef long long ll;
