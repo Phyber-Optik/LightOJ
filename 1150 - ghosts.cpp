@@ -1,7 +1,6 @@
-/*  Towhidul Islam
-    University Of Dhaka
-    Problem Name :
-    Algorithm Used :
+/*  
+    read about the idea in:
+    https://prisonbreakingbad.wordpress.com/2016/05/04/lightoj-1150-ghosts/
 */
 
 #include<bits/stdc++.h>
